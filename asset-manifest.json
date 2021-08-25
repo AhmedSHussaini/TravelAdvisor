@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/TravelAdvisor/static/js/main.db105324.chunk.js",
+    "main.js.map": "/TravelAdvisor/static/js/main.db105324.chunk.js.map",
+    "runtime-main.js": "/TravelAdvisor/static/js/runtime-main.38f9d985.js",
+    "runtime-main.js.map": "/TravelAdvisor/static/js/runtime-main.38f9d985.js.map",
+    "static/js/2.5ad1738c.chunk.js": "/TravelAdvisor/static/js/2.5ad1738c.chunk.js",
+    "static/js/2.5ad1738c.chunk.js.map": "/TravelAdvisor/static/js/2.5ad1738c.chunk.js.map",
+    "index.html": "/TravelAdvisor/index.html",
+    "static/js/2.5ad1738c.chunk.js.LICENSE.txt": "/TravelAdvisor/static/js/2.5ad1738c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38f9d985.js",
+    "static/js/2.5ad1738c.chunk.js",
+    "static/js/main.db105324.chunk.js"
+  ]
+}
