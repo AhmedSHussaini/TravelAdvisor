@@ -18,6 +18,7 @@ export const getPlacesData = async (type, sw, ne) => {
         return data;
     } catch(error){
         console.log(error);
+        alert("Unfortunately the monthly limit for RapidAPI has been met. The hotel, restaurant, and attraction data will not load.");
     }
 }
 
